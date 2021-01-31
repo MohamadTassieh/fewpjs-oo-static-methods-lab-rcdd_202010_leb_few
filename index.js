@@ -22,4 +22,3 @@ if(words[i]==="the" || words[i]==="a" || words[i]==="an" || words[i]==="but" || 
 return words.join(" ");
 }
 }
-}
